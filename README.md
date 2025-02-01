@@ -1,2 +1,2 @@
 # data_sci_text
-Draft of and OER in Data Science
+Draft of an OER in Data Science
